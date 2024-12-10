@@ -1,0 +1,6 @@
+[submodule "SmartMotorcycle-Microservices"]
+	path = SmartMotorcycle-Microservices
+	url = https://github.com/riskyprsty/SmartMotorcycle-Microservices
+[submodule "SmartMotorcycle-AndroidApp"]
+	path = SmartMotorcycle-AndroidApp
+	url = https://github.com/riskyprsty/SmartMotorcycle-AndroidApp
