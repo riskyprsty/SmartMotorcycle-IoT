@@ -1,7 +1,7 @@
 # SmartMotorcycle-IoT Project ✨
 <div align="center">
 <p align="center">
-<a href="/docs/assets/thumbnail.png"><img title="Logo" src="/docs/assets/thumbnail.png" width="300"]></a><br>
+<a href="/docs/assets/thumbnail.png"><img title="Logo" src="/docs/assets/thumbnail.png" width="500"]></a><br>
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://github.com/riskyprsty/SmartMotorcycle-IoT) [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
